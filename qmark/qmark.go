@@ -1,5 +1,3 @@
-// Copyright (c) 2012-2014 Waldemar Augustyn. All rights reserved.
-
 /* Simple CPU benchmark test
 
 Go servers read messages from their queues, update trace information, and send
